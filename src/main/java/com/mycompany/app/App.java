@@ -9,7 +9,6 @@ import java.util.logging.Logger;
 public class App
 {
 
-    private static final Logger LOGGER = Logger.getLogger(App.class.getName());
     private static final String MESSAGE = "Hello World!";
 
     public App() {
@@ -18,7 +17,6 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-        // LOGGER.log(Level.SEVERE, new App().getMessage());
     }
 
     private final String getMessage() {
