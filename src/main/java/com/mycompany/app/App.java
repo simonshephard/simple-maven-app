@@ -1,8 +1,5 @@
 package com.mycompany.app;
 
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
 /**
  * Hello world!
  */

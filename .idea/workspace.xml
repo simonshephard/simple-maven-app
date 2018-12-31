@@ -68,11 +68,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
                 <element signature="e#361#362#0" expanded="true" />
                 <element signature="e#391#392#0" expanded="true" />
               </folding>
@@ -174,7 +174,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546282813054" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546282952753" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/old_jenkins" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
@@ -288,11 +288,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
             <element signature="e#361#362#0" expanded="true" />
             <element signature="e#391#392#0" expanded="true" />
           </folding>
