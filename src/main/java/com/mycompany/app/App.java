@@ -8,7 +8,9 @@ public class App
 
     private final String message = "Hello World!";
 
-    public App() {}
+    public App() {
+        // this app is just a simple example so constructor is empty
+    }
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
