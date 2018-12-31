@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private static final String message = "Hello World!";
+    private static final String MESSAGE = "Hello World!";
 
     public App() {
         // this app is just a simple example so constructor is empty
@@ -17,7 +17,7 @@ public class App
     }
 
     private final String getMessage() {
-        return message;
+        return MESSAGE;
     }
 
 }
