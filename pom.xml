@@ -15,6 +15,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>artifactory</id>
+      <name>artifactory</name>
+      <url>${artifactory_url}</url>
+    </snapshotRepository>
+  </distributionManagement>
   <build>
     <plugins>
       <plugin>
