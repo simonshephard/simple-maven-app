@@ -29,6 +29,7 @@ pipeline {
                     sh "mvn -s $SETTINGS deploy -DskipTests -Dartifactory_url=${env.ARTIFACTORY_URL}"
                 }
             }
+
         }
     }
 }
